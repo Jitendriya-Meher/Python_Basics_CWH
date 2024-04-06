@@ -1,0 +1,3 @@
+import jiten
+
+jiten.welcome()
